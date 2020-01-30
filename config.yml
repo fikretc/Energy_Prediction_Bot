@@ -2,7 +2,8 @@
 # then move it to cleaned config
 # the rAW data are from the notebooks cleaning_Preproceeesing folder
 rawdatapath:
-    TrainDir: Dataset/trainData/
+    #TrainDir: Dataset/trainData/
+    TrainDir: C:/WS/AI-Software/ashrae-energy-prediction/NotebooksAndData/BMobile-Ashrae/Dataset-trainData/
     trainDatasetName: meterOneTrainData.csv
     trainDatasetName2: meterZeroTrainData.feather
     
